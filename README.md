@@ -1,4 +1,4 @@
-# 💰 Expense Tracker App
+# Expense Tracker App
 
 A full-stack expense tracking application with a Node.js/Express backend and React + Vite frontend.
 
