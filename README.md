@@ -129,7 +129,7 @@ npm run dev
 
 ---
 
-## ⚙️ Environment Variables (backend/.env)
+## Environment Variables (backend/.env)
 
 ```env
 PORT=5000
@@ -148,7 +148,7 @@ FRONTEND_URL=http://localhost:5173
 
 ---
 
-## 📡 API Endpoints
+##  API Endpoints
 
 ### Auth
 | Method | Endpoint | Description |
@@ -175,7 +175,7 @@ FRONTEND_URL=http://localhost:5173
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Authentication**: JWT + Passport local + Google OAuth 2.0
 - **Expenses**: Full CRUD with file receipt uploads, filtering, search, pagination
